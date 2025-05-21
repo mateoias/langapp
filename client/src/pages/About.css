@@ -1,0 +1,43 @@
+.about-page {
+    padding: 4rem 1rem 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+    line-height: 1.6;
+    font-size: 1.1rem;
+  }
+  
+  .jumbotron {
+    background-color: #f8f9fa; /* light gray */
+    color: #212529; /* dark text */
+    padding: 1rem 1.5rem;
+    margin-top: 4rem; /* to clear the fixed header */
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  .display-4 {
+    font-size: 1.75rem;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+  .article-title {
+    padding: 0 1rem;
+  }
+  
+  .article-title h2 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.3rem;
+  }
+  
+  .article-title p {
+    margin: 0.5rem 0 1rem;
+    font-size: 1rem;
+  }
+  
+  .article-title li {
+    margin-bottom: 0.4rem;
+    font-size: 0.95rem;
+  }
+  
