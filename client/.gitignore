@@ -1,7 +1,5 @@
 
-
-# Environment variables
-.env
+users.json
 # Logs
 logs
 *.log
@@ -43,7 +41,15 @@ __pycache__/
 langenv/
 
 # Flask instance folder (if used)
+__pycache__/
 instance/
+flask_session/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
 
 # Testing cache
 .pytest_cache/

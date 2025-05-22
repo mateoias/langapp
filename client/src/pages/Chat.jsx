@@ -24,7 +24,7 @@ function Chat() {
         headers: {
           'Content-Type': 'application/json'
         },
-        body: JSON.stringify({ message: text })
+        body: JSON.stringify({message: text})
       });
   
       const data = await res.json();
